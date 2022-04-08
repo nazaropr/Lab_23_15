@@ -1,0 +1,23 @@
+{
+  "name": "lab_23_15",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazaropr/Lab_23_15.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nazaropr/Lab_23_15/issues"
+  },
+  "homepage": "https://github.com/nazaropr/Lab_23_15#readme",
+  "dependencies": {
+    "custom_module": "file:custom_module",
+    "requirejs": "^2.3.6"
+  }
+}
